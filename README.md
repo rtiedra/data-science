@@ -4,4 +4,4 @@ data science projects
 - building_heating -- a study of the energy consumption for heating for an ecological apartment building in Geneva
 - stock_price -- (naive) stock prediction using LSTM recurrent neural networks
 - LSTM_autoencoder -- a toy model of LSTM autoencoder
-- ongoing project of time series anomaly detection using an LSTM autoencoder
+- anomaly_detection -- ongoing project of time series anomaly detection using an LSTM autoencoder
