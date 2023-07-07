@@ -7,3 +7,4 @@ data science projects
 - building_heating -- Data analysis of the energy consumption for heating of an ecological apartment building in Geneva
 - stock_price_prediction -- (naive) stock price prediction using a LSTM recurrent neural network
 - text_summariser_1 -- Extractive text summariser in French based on the frequency of words
+- text_summariser_1 -- Extractive text summariser in French based on the TF-IDF matrix
